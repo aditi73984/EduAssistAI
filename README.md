@@ -6,6 +6,20 @@ It empowers students, educators, and content creators by providing intelligent t
 🌐 Live Demo:
 👉 https://edu-assist-hpe5iyhus-aditi73984s-projects.vercel.app/
 
+## 🔑 Demo Login Credentials
+
+You can use the following demo accounts to explore the platform without registration:
+
+### 👩‍🎓 Student Account
+- **Email:** student@demo.com  
+- **Password:** Demo@123  
+
+### 👨‍🏫 Creator Account
+- **Email:** creator@demo.com  
+- **Password:** Demo@123  
+
+> ⚠️ These are demo-only credentials with limited access for testing purposes.
+
 ✨ Key Features
 
 👩‍🎓 For Students
