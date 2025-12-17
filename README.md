@@ -11,12 +11,13 @@ It empowers students, educators, and content creators by providing intelligent t
 You can use the following demo accounts to explore the platform without registration:
 
 ### 👩‍🎓 Student Account
-- **Email:** student@demo.com  
-- **Password:** Demo@123  
+ - **Email:** creator@demo.com  
+- **Password:** Demo@123 
 
 ### 👨‍🏫 Creator Account
-- **Email:** creator@demo.com  
-- **Password:** Demo@123  
+- **Email:** student@demo.com  
+- **Password:** Demo@123 
+ 
 
 > ⚠️ These are demo-only credentials with limited access for testing purposes.
 
